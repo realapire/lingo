@@ -1,0 +1,11 @@
+C:\Users\32475\Desktop\Lingo\Lingo\bin\Debug\Lingo.exe.config
+C:\Users\32475\Desktop\Lingo\Lingo\bin\Debug\Lingo.exe
+C:\Users\32475\Desktop\Lingo\Lingo\bin\Debug\Lingo.pdb
+C:\Users\32475\Desktop\Lingo\Lingo\obj\Debug\Lingo.csproj.AssemblyReference.cache
+C:\Users\32475\Desktop\Lingo\Lingo\obj\Debug\Lingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\32475\Desktop\Lingo\Lingo\obj\Debug\Lingo.mainForm.resources
+C:\Users\32475\Desktop\Lingo\Lingo\obj\Debug\Lingo.Properties.Resources.resources
+C:\Users\32475\Desktop\Lingo\Lingo\obj\Debug\Lingo.csproj.GenerateResource.cache
+C:\Users\32475\Desktop\Lingo\Lingo\obj\Debug\Lingo.csproj.CoreCompileInputs.cache
+C:\Users\32475\Desktop\Lingo\Lingo\obj\Debug\Lingo.exe
+C:\Users\32475\Desktop\Lingo\Lingo\obj\Debug\Lingo.pdb
